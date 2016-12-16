@@ -103,6 +103,7 @@
     <Content Include="images\flicr_icon.png" />
     <Content Include="images\header-images.jpg" />
     <Content Include="images\logo.png" />
+    <Content Include="images\logo_footer.png" />
     <Content Include="images\portfolio4.jpg" />
     <Content Include="images\portfolio1.jpg" />
     <Content Include="images\portfolio2.jpg" />
