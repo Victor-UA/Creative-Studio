@@ -97,13 +97,18 @@
     <Content Include="css\reset.css" />
     <Content Include="css\style.css" />
     <Content Include="images\arrow.png" />
+    <Content Include="images\arrow_small.png" />
     <Content Include="images\check.png" />
+    <Content Include="images\facebook_icon.png" />
+    <Content Include="images\flicr_icon.png" />
     <Content Include="images\header-images.jpg" />
     <Content Include="images\logo.png" />
     <Content Include="images\portfolio4.jpg" />
     <Content Include="images\portfolio1.jpg" />
     <Content Include="images\portfolio2.jpg" />
     <Content Include="images\portfolio3.jpg" />
+    <Content Include="images\rss_icon.png" />
+    <Content Include="images\twitter_icon.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
